@@ -3,8 +3,9 @@
 Simple piano instrument for kids 
 Made with arduino IDE using arduino code
 
-## Demo video and presentation (Dropbox):
+## Demo video and presentation (Youtube, Dropbox):
     https://www.dropbox.com/scl/fo/n7xwm9vew34fpvz0be64i/ALRUx7j8CkR939VfseAGkyI?rlkey=eqa9h9m3thw45xwhqmjve04m7&st=r336miwo&dl=0
+    https://www.youtube.com/watch?v=ikOrGjtvzw4
 
 ## What I learned
   - basics of arduino code
